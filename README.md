@@ -1,3 +1,5 @@
-Watch this on Linkedin for clarity
+Watch this on Youtube for clarity.
 
-Link : https://www.linkedin.com/posts/imrealaryanjain_python-mail-email-activity-7369312717360304133-qjP6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADE-UJABIt1FnsIUxgrQdsvVWlfbs6d7_GY
+Link : https://youtu.be/zzqaWLZPv7A?si=fwEo_nlRq-wtuzLU
+
+Note : In this repository email means "Gmail" i.e this code can send mail from "Gmail" only.
